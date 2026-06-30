@@ -9,5 +9,5 @@
 ให้ระบุข้อมูลของ นศ. และ URL ของ Github Pages ไว้ด้านล่างนี้
 
 - ชื่อ-สกุล: วรินทร ศรีธิ
-- รหัสนักศึกษา:
-- <strong>GITHUB PAGE URL : </strong>
+- รหัสนักศึกษา: 680610714
+- <strong>GITHUB PAGE URL : https://willgyft.github.io/lab03-Will-Warin/</strong>
